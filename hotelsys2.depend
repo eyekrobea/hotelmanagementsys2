@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711879778 source:c:\users\quinton watercloset\onedrive - ghana communication technology university\desktop\cpp\hotelsys2\hotelsys2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctime>
+
